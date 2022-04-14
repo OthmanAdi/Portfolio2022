@@ -19,7 +19,7 @@ export default function Footer() {
                   className="hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
                   href="https://devcover.me/portfolio/ahmadothmanadi"
                 >
-                  Open Source Contributors
+                  My Amazing Student's Projects
                 </a>
               </div>
             </p>

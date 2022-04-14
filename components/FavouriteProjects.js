@@ -40,7 +40,8 @@ export default function FavouriteProjects() {
                     >
                         <div className="relative overflow-hidden">
                             <img
-                                src=""
+                                src="https://picsum.photos/200/300
+"
                                 alt="portfolio"
                                 className="transform hover:scale-125 transition duration-2000 ease-out"
                             />
@@ -60,7 +61,8 @@ export default function FavouriteProjects() {
                         <div className="relative overflow-hidden">
                             {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
                             <img
-                                src=""
+                                src="https://picsum.photos/200/300
+"
                                 alt="portfolio"
                                 className="transform hover:scale-125 transition duration-2000 ease-out"
                             />
@@ -80,7 +82,8 @@ export default function FavouriteProjects() {
                         <div className="relative overflow-hidden shadow-2xl">
                             {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
                             <img
-                                src=""
+                                src="https://picsum.photos/200/300
+"
                                 alt="portfolio"
                                 className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
                             />
@@ -89,6 +92,88 @@ export default function FavouriteProjects() {
                             </h1>
                             <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                                 03
+                            </h1>
+                        </div>
+                    </a>
+                    {/* Single card */}
+                    <a
+                        href=""
+                        className="w-full block col-span-3 sm:col-span-1  object-cover"
+                    >
+                        <div className="relative overflow-hidden shadow-2xl">
+                            {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
+                            <img
+                                src="https://picsum.photos/200/300
+"
+                                alt="portfolio"
+                                className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
+                            />
+                            <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                                Project 4
+                            </h1>
+                            <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                                04
+                            </h1>
+                        </div>
+                    </a>
+                    {/* Single card */}
+                    <a
+                        href=""
+                        className="w-full block col-span-3 sm:col-span-1  object-cover"
+                    >
+                        <div className="relative overflow-hidden shadow-2xl">
+                            {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
+                            <img
+                                src="https://picsum.photos/200/300
+"
+                                alt="portfolio"
+                                className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
+                            />
+                            <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                                Project 5
+                            </h1>
+                            <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                                05
+                            </h1>
+                        </div>
+                    </a>
+                     <a
+                        href=""
+                        className="w-full block col-span-3 sm:col-span-1  object-cover"
+                    >
+                        <div className="relative overflow-hidden shadow-2xl">
+                            {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
+                            <img
+                                src="https://picsum.photos/200/300
+"
+                                alt="portfolio"
+                                className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
+                            />
+                            <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                                Project 6
+                            </h1>
+                            <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                                06
+                            </h1>
+                        </div>
+                    </a>
+                    {/* Single card */}
+                    <a
+                        href=""
+                        className="w-full block col-span-3 shadow-2xl"
+                    >
+                        <div className="relative overflow-hidden">
+                            <img
+                                src="https://picsum.photos/200/300
+"
+                                alt="portfolio"
+                                className="transform hover:scale-125 transition duration-2000 ease-out"
+                            />
+                            <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                                Project 7
+                            </h1>
+                            <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                                07
                             </h1>
                         </div>
                     </a>
