@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "OthmanAdi",
   name: "Ahmad Othman Adi",
   designation: "Front End, IOS and Blockchain developer",
-  avatarUrl: "/selfi.jpg",
+  avatarUrl: "/Website Official Banner.jpg",
   email: "adiatwork@outlook.com",
   phone: "",
   address: "Germany",
